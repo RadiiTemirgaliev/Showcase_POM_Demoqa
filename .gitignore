@@ -1,3 +1,7 @@
 *.png
+*.log
+*.json
+
 .pytest_cache/
-geckodriver.log
+.geckodriver.log
+.automation.log

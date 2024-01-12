@@ -292,3 +292,66 @@ Dynamically enable window occlusion 1
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1705018714464	geckodriver	INFO	Listening on 127.0.0.1:64324
+1705018717512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5NrN09"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705018717798	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705018717866	Marionette	INFO	Listening on port 64334
+WebDriver BiDi listening on ws://127.0.0.1:64325
+Read port: 64334
+1705018718035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64325/devtools/browser/61d4ea53-ab50-43ab-85c0-27b908a2e2b0
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1705018723780	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1705018726340	Marionette	INFO	Stopped listening on port 64334
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+D@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval:1:24
+@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval:1:110
+C8@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval:1:251
+re@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 16 > eval line 1 > eval line 1 > eval:1:49
+M.Y</<@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:37485
+Nm@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:24544
+sm@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:13081
+r@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:13306
+sm/<@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:13150
+cu</<@https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval:16:35108
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1705018837629	geckodriver	INFO	Listening on 127.0.0.1:64614
+1705018840706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZL1aK9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705018840988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705018841050	Marionette	INFO	Listening on port 64624
+WebDriver BiDi listening on ws://127.0.0.1:64615
+Read port: 64624
+1705018841217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64615/devtools/browser/c3eea266-ea02-4a82-8c18-fc2ffe64d35d
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1705018847152	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1705018848388	Marionette	INFO	Stopped listening on port 64624
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js, line 102: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js:102:34613
+
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fevents-ssc.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D, line 1: Script terminated by timeout at:
+aq@https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fevents-ssc.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D:1:10927
+P.PugMasterCallback/<@https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fevents-ssc.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D:1:15370
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

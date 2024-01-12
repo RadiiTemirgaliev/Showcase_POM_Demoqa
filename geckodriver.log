@@ -355,3 +355,29 @@ Dynamically enable window occlusion 1
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1705018957719	geckodriver	INFO	Listening on 127.0.0.1:64930
+1705018960799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile2VUitb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705018961094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705018961154	Marionette	INFO	Listening on port 64956
+WebDriver BiDi listening on ws://127.0.0.1:64931
+Read port: 64956
+1705018961321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64931/devtools/browser/4433f346-2888-401b-8b27-3d0fa1418a0f
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1705018967956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/MCFrRHZE15CKjvM6RLwmjguI7mqh03m56A7oA9GJNi8.js line 2 > eval line 350 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1705018971591	Marionette	INFO	Stopped listening on port 64956
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js, line 102: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js:102:34613
+
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+get@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:22121
+sync16589_2.prototype.O@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30572
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30612
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

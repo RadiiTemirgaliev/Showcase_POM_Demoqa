@@ -63,3 +63,8 @@
 01/11/2024 07:20:42 PM ################### Test Case: test_right_click_button ######################
 01/11/2024 07:20:42 PM Browser is maximized
 01/11/2024 07:20:48 PM Screenshot is created
+01/11/2024 07:22:37 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:22:42 PM Browser is opend
+01/11/2024 07:22:42 PM ################### Test Case: test_double_click_button ######################
+01/11/2024 07:22:43 PM Browser is maximized
+01/11/2024 07:22:51 PM Screenshot is created

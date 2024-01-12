@@ -1,0 +1,55 @@
+01/11/2024 06:59:55 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:00:01 PM Browser is opend
+01/11/2024 07:00:01 PM ################### Test Case: test_text_box ######################
+01/11/2024 07:00:01 PM Browser is maximized
+01/11/2024 07:00:10 PM Screenshot is created
+01/11/2024 07:00:17 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:00:22 PM Browser is opend
+01/11/2024 07:00:22 PM ################### Test Case: test_check_box ######################
+01/11/2024 07:00:22 PM Browser is maximized
+01/11/2024 07:00:34 PM Screenshot is created
+01/11/2024 07:00:41 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:00:46 PM Browser is opend
+01/11/2024 07:00:46 PM ################### Test Case: test_radio_button ######################
+01/11/2024 07:00:46 PM Browser is maximized
+01/11/2024 07:00:50 PM Screenshot is created
+01/11/2024 07:01:03 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:01:08 PM Browser is opend
+01/11/2024 07:01:08 PM ################### Test Case: test_web_table_add_person ######################
+01/11/2024 07:01:08 PM Browser is maximized
+01/11/2024 07:01:20 PM Screenshot is created
+01/11/2024 07:01:27 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:01:32 PM Browser is opend
+01/11/2024 07:01:32 PM ################### Test Case: test_web_table_search_person ######################
+01/11/2024 07:01:33 PM Browser is maximized
+01/11/2024 07:01:48 PM Screenshot is created
+01/11/2024 07:01:55 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:02:00 PM Browser is opend
+01/11/2024 07:02:00 PM ################### Test Case: test_web_table_update_person_info ######################
+01/11/2024 07:02:01 PM Browser is maximized
+01/11/2024 07:02:15 PM Screenshot is created
+01/11/2024 07:02:22 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:02:27 PM Browser is opend
+01/11/2024 07:02:27 PM ################### Test Case: test_web_table_delete_person ######################
+01/11/2024 07:02:27 PM Browser is maximized
+01/11/2024 07:02:41 PM Screenshot is created
+01/11/2024 07:02:48 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:02:53 PM Browser is opend
+01/11/2024 07:02:53 PM ################### Test Case: test_web_table_change_count_row ######################
+01/11/2024 07:02:53 PM Browser is maximized
+01/11/2024 07:03:07 PM Screenshot is created
+01/11/2024 07:03:10 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:03:15 PM Browser is opend
+01/11/2024 07:03:15 PM ################### Test Case: test_double_click_button ######################
+01/11/2024 07:03:15 PM Browser is maximized
+01/11/2024 07:03:22 PM Screenshot is created
+01/11/2024 07:03:29 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:03:34 PM Browser is opend
+01/11/2024 07:03:34 PM ################### Test Case: test_right_click_button ######################
+01/11/2024 07:03:34 PM Browser is maximized
+01/11/2024 07:03:39 PM Screenshot is created
+01/11/2024 07:03:46 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/11/2024 07:03:51 PM Browser is opend
+01/11/2024 07:03:51 PM ################### Test Case: test_click_button ######################
+01/11/2024 07:03:52 PM Browser is maximized
+01/11/2024 07:03:58 PM Screenshot is created

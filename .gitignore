@@ -2,7 +2,7 @@
 *.log
 *.json
 
-logs/
+.logs/
 
 .pytest_cache/
 geckodriver.log

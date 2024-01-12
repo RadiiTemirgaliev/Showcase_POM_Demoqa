@@ -2,6 +2,8 @@
 *.log
 *.json
 
+logs/
+
 .pytest_cache/
 geckodriver.log
 automation.log
